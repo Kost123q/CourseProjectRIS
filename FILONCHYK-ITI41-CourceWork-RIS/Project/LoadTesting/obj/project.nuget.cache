@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f434HSjl46M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\CourseProjectRIS\\FILONCHYK-ITI41-CourceWork-RIS\\Project\\LoadTesting\\LoadTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
